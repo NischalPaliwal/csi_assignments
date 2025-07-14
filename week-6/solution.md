@@ -7,7 +7,7 @@
 1. [🔧 Self-hosted Integration Runtime Setup](#-self-hosted-integration-runtime-setup)
 2. [🌐 FTP/SFTP Server Configuration](#-ftpsftp-server-configuration)
 3. [📈 Incremental Load Pipeline with Daily Automation](#-incremental-load-pipeline-with-daily-automation)
-4. [📈 Creating triggers for last saturday of every month](#-quick-reference-guide)
+4. [📈 Creating triggers for last saturday of every month](#-setting-up-triggers-for-last-saturday-of-every-month)
 
 ---
 
