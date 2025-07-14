@@ -270,7 +270,7 @@ WHERE ModifiedDate >= DATEADD(day, -1, GETDATE())
 
 ---
 
-## 📈 Setting up triggers for last saturday of every month
+## 📈 Setting Up Triggers for Last Saturday of Every Month
 ---
 
 ## 🏆 Assignment Completion Checklist
