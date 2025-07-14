@@ -289,8 +289,8 @@ WHERE ModifiedDate >= DATEADD(day, -1, GETDATE())
 
 ---
 
-**🎓 Submitted by:** [Nischal Paliwal]  
-**📅 Date:** [14/07/2025]  
+**🎓 Submitted by:** Nischal Paliwal  
+**📅 Date:** 14/07/2025 
 **🏫 Domain:** Data Engineering
 
 ---
